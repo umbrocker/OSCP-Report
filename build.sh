@@ -8,4 +8,4 @@ pandoc $1 -o $2.pdf \
 --number-sections \
 --top-level-division=chapter \
 --highlight-style breezedark \
---resource-path=.:/home/kali/report
+--resource-path=.:./
